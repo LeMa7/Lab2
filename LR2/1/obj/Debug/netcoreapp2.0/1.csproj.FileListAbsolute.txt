@@ -1,0 +1,22 @@
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\bin\Debug\netcoreapp2.0\1.deps.json
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\bin\Debug\netcoreapp2.0\1.runtimeconfig.json
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\bin\Debug\netcoreapp2.0\1.runtimeconfig.dev.json
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\bin\Debug\netcoreapp2.0\1.dll
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\bin\Debug\netcoreapp2.0\1.pdb
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.csprojAssemblyReference.cache
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.csproj.CoreCompileInputs.cache
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.AssemblyInfoInputs.cache
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.AssemblyInfo.cs
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.dll
+D:\Програмирование\Лабораторные работы\ООП\LR2\1\obj\Debug\netcoreapp2.0\1.pdb
+D:\Labs\OOP\LR2\1\bin\Debug\netcoreapp2.0\1.deps.json
+D:\Labs\OOP\LR2\1\bin\Debug\netcoreapp2.0\1.runtimeconfig.json
+D:\Labs\OOP\LR2\1\bin\Debug\netcoreapp2.0\1.runtimeconfig.dev.json
+D:\Labs\OOP\LR2\1\bin\Debug\netcoreapp2.0\1.dll
+D:\Labs\OOP\LR2\1\bin\Debug\netcoreapp2.0\1.pdb
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.csprojAssemblyReference.cache
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.csproj.CoreCompileInputs.cache
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.AssemblyInfoInputs.cache
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.AssemblyInfo.cs
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.dll
+D:\Labs\OOP\LR2\1\obj\Debug\netcoreapp2.0\1.pdb
